@@ -1,0 +1,6 @@
+server:
+  port: 8089
+
+connector:
+  zonky:
+    endpointUrl: 'https://api.zonky.cz/loans/marketplace'
